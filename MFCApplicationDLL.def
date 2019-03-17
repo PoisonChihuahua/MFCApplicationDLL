@@ -1,0 +1,9 @@
+﻿; MFCApplicationDLL.def : DLL のモジュール パラメーターを宣言します。
+
+LIBRARY		"MFCApplicationDLL"
+
+DESCRIPTION	'test'
+
+EXPORTS
+    ; 明示的なエクスポートはここへ記述できます
+	CallBackSDG
